@@ -1,4 +1,4 @@
-#Buildng and sorting an array
+Buildng and sorting an array
 
 puts "Enter a single word on each line, when you're done press enter 1on an empty line, and I'll sort the words for you"
 array = []
